@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi👋 I'm Nischay Raj
 
-<!--
-**nischay7/nischay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 I'm an Aspiring Machine Learning Engineer, interested in working with LLM and GenerativeAI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proven track record in developing large-scale models such as Stable Video Diffusion, Large Language Models (LLMs), lip-sync, text-to-image, and speech-to-text (STT) systems.
+Extensive experience with developing large models on GPU clusters using large datasets, including multinode and multi-GPU configurations with A100 and H100 GPUs.
+Highly proficient in Tensorflow and distributed training libraries such as Accelerate and DeepSpeed.
+## 📫 Connect with Me
+Email: nischayrajmuz17@gmail.com
+Let's connect and collaborate on exciting projects!
+
+## Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=git,pytorch,tensorflow,anaconda,linux,aws,docker,ai,opencv,sklearn,django,vscode,)](https://skillicons.dev)
+
+## Top Languages
+[![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
