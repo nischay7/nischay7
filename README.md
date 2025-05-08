@@ -12,7 +12,7 @@ Let's connect and collaborate on exciting projects!
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=git,pytorch,tensorflow,anaconda,linux,aws,docker,ai,opencv,sklearn,django,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,pytorch,tensorflow,anaconda,linux,aws,docker,ai,opencv,sklearn,django,fastapi,vscode,)](https://skillicons.dev)
 
 ## Top Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
